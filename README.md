@@ -77,7 +77,7 @@ Options:
 ### Acknowledgments
 
 * The backtracking search implementation in this library owes a lot to
-  "Adaptive Strategies for Solving Constraint Satisfaction Problems" by
+  [Adaptive Strategies for Solving Constraint Satisfaction Problems](https://robotics.pme.duth.gr/balafoutis/wp-content/uploads/2022/11/Thesis.pdf) by
   Thanasis Balafoutis, which was helpful both as an overview of the CSP space
   and a source of specific implementation ideas.
 
